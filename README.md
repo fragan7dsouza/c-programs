@@ -31,7 +31,7 @@ Each folder contains a C file focused on a specific concept or program:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/2nd-sem-c-programs.git
+   git clone https://github.com/fragan7dsouza/2nd-sem-c-programs.git
    ```
 2. Navigate to any folder and compile the `.c` file using GCC  
    ```bash
